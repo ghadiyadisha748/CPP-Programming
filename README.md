@@ -1,11 +1,29 @@
 # C++ File Handling Project
 
-This project is made using C++.
+This is my C++ Learning file
 
 ## Features
-- Read file
-- Write file
-- Append data
+- Basic C++ Programs
+- Variables and Data Types
+- Input / Output Operations
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Arrays
+- Strings
+- Pointers
+- Classes and Objects
+- Constructors and Destructors
+- Inheritance
+- Polymorphism
+- File Handling
+- Recursion
+- STL (Vector, Stack, Queue, Map)
+- Sorting Algorithms
+- Searching Algorithms
+- Mini Projects
+
 
 ## Language
 - C++
